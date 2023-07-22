@@ -2,9 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+- 🎓 Graduated from the systems career and web developer at Alura.
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
@@ -16,32 +14,33 @@
 
 #### Front-end:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Next](http://img.shields.io/badge/-Next.js-CC0000?style=flat-square&logo=next.js&logoColor=ffffff)
-![StyledComponents](https://img.shields.io/badge/-Styled_Components-%23CC6699?style=flat-square&logo=styled-components&logoColor=ffffff)
-![Bootstrap](http://img.shields.io/badge/-Bootstrap-CC0000?style=flat-square&logo=bootstrap&logoColor=ffffff)
-![Tailwind](http://img.shields.io/badge/-Tailwind-CC0000?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-![MaterialUi](http://img.shields.io/badge/-Material.ui-CC0000?style=flat-square&logo=mui&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0077B5?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&color=d1b01f)
+
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![Next](http://img.shields.io/badge/-Next.js-007ACC?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![StyledComponents](https://img.shields.io/badge/-Styled_Components-%23CC6699?style=for-the-badge&logo=styled-components&logoColor=ffffff)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-6F2CF4?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![Tailwind](http://img.shields.io/badge/-Tailwind-0B2035?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![MaterialUi](http://img.shields.io/badge/-Material.ui-007FFF?style=for-the-badge&logo=mui&logoColor=ffffff)
+![Netlify](http://img.shields.io/badge/-Netlify-2BBFBD?style=for-the-badge&logo=netlify&logoColor=ffffff)
 
 #### Back-end:
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
+![Nodejs](https://img.shields.io/badge/-Nodejs-fff?style=flat-square&logo=Node.js&logoColor=00d632)
 ![Express](http://img.shields.io/badge/-Express-269539?style=flat-square&logo=express&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
+![Json](https://img.shields.io/badge/-Json-ADADAD?style=flat-square&logo=json&logoColor=ffffff)
+![MongoDb](https://img.shields.io/badge/-Mongo-66AC3E?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Render](https://img.shields.io/badge/-Render-6880F9?style=flat-square&logo=render&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/-Heroku-7B67B2?style=flat-square&logo=heroku&logoColor=ffffff)
 
 
-#### Editors and Operating Systems:
+#### Editors and Some of the technologies I have worked:
 
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Tabnine](http://img.shields.io/badge/-Tabnine-000000?style=flat-square&logo=openai&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![FreeBSD](http://img.shields.io/badge/-Free%20BSD-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)
-![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
-![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+![Git](http://img.shields.io/badge/-Git-AB2B28?style=flat-square&logo=git&logoColor=ffffff)
 
 <!--
 **jeinszz01/jeinszz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
